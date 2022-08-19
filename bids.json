@@ -1,0 +1,82 @@
+{
+  "bids": [
+    {
+      "id": 1,
+      "houseId": 1,
+      "bidder": "Sonia Reading",
+      "amount": 200000
+    },
+    {
+      "id": 2,
+      "houseId": 1,
+      "bidder": "Dick Johnson",
+      "amount": 202400
+    },
+    {
+      "id": 3,
+      "houseId": 2,
+      "bidder": "Mohammed Vahls",
+      "amount": 302400
+    },
+    {
+      "id": 4,
+      "houseId": 2,
+      "bidder": "Jane Williams",
+      "amount": 310500
+    },
+    {
+      "id": 5,
+      "houseId": 2,
+      "bidder": "John Kepler",
+      "amount": 315400
+    },
+    {
+      "id": 6,
+      "houseId": 3,
+      "bidder": "Bill Mentor",
+      "amount": 201000
+    },
+    {
+      "id": 7,
+      "houseId": 4,
+      "bidder": "Melissa Kirk",
+      "amount": 410000
+    },
+    {
+      "id": 8,
+      "houseId": 4,
+      "bidder": "Scott Max",
+      "amount": 450000
+    },
+    {
+      "id": 9,
+      "houseId": 4,
+      "bidder": "Christine James",
+      "amount": 470000
+    },
+    {
+      "id": 10,
+      "houseId": 5,
+      "bidder": "Omesh Carim",
+      "amount": 450000
+    },
+    {
+      "id": 11,
+      "houseId": 5,
+      "bidder": "Charlotte Max",
+      "amount": 150000
+    },
+    {
+      "id": 12,
+      "houseId": 5,
+      "bidder": "Marcus Scott",
+      "amount": 170000
+    },
+    {
+      "houseId": 1,
+      "bidder": "Roland",
+      "amount": 203000,
+      "id": 13
+    }
+  ]
+}
