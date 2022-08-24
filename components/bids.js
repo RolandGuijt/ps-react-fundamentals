@@ -19,7 +19,7 @@ const Bids = ({ house }) => {
     return <LoadingIndicator loadingState={loadingState} />;
 
   const onBidSubmitClick = () => {
-    //add newBid to state and persist to API
+    addBid(newBid);
     setNewBid(emptyBid);
   };
 
